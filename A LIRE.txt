@@ -1,0 +1,1 @@
+J'ai mis certaines lignes de code en commentaire pour éviter de tout print quand je test le programme.
